@@ -18,7 +18,7 @@ import com.example.ApiG46BD.Servicios.UsuarioServicio;
 
 @RestController
 @RequestMapping("/usuario")
-@CrossOrigin("*")
+@CrossOrigin
 //http://localhost:8080/usuario
 public class UsuarioControlador {
     @Autowired
