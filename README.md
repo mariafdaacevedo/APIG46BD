@@ -9,7 +9,11 @@ La API fue realizada con SpringBoot & JAVA. La API almacena datos personales de 
 Los metodos utilizados en la API son los siguientes:
 
 POST  ⇨ para guardar la información de cada usuario (documento, nombre, apellido, telefono, correo, direccion)
+
+
 GET ⇨ consultar los usuarios por numero de documento, nombre apellido y correo
+
+
 DELETE ⇨ Eliminar usuario por número de documento
 
 
